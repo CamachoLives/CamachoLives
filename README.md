@@ -18,12 +18,13 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,python,nodejs,postgres,mysql,docker,aws,jenkins,gitlab,azure,cloudflare,nginx,linux&perline=9" alt="Stack"/>
+<br/>
+<img src="https://img.shields.io/badge/IBM-WebSphere-0047AB?style=for-the-badge&labelColor=0A1F44" alt="IBM WebSphere"/>
+<img src="https://img.shields.io/badge/IBM-QRadar-0047AB?style=for-the-badge&labelColor=0A1F44" alt="IBM QRadar"/>
+<img src="https://img.shields.io/badge/IBM-Domino-0047AB?style=for-the-badge&labelColor=0A1F44" alt="IBM Domino"/>
+<img src="https://img.shields.io/badge/IBM-X--Force-0047AB?style=for-the-badge&labelColor=0A1F44" alt="IBM X-Force"/>
+<img src="https://img.shields.io/badge/IBM-Informix-0047AB?style=for-the-badge&labelColor=0A1F44" alt="IBM Informix"/>
 
-<img src="https://img.shields.io/badge/IBM%20WebSphere-0A1F44?style=flat-square&logo=ibm&logoColor=white" alt="IBM WebSphere"/>
-<img src="https://img.shields.io/badge/IBM%20QRadar-0A1F44?style=flat-square&logo=ibm&logoColor=white" alt="IBM QRadar"/>
-<img src="https://img.shields.io/badge/IBM%20Domino-0A1F44?style=flat-square&logo=ibm&logoColor=white" alt="IBM Domino"/>
-<img src="https://img.shields.io/badge/IBM%20X--Force-0A1F44?style=flat-square&logo=ibm&logoColor=white" alt="IBM X-Force"/>
-<img src="https://img.shields.io/badge/Informix-0A1F44?style=flat-square&logo=ibm&logoColor=white" alt="Informix"/>
 
 </div>
 
